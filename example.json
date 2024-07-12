@@ -1,0 +1,69 @@
+{
+  "name": "Crocker Park Living",
+  "address": "177 Market St, Westlake, OH 44145",
+  "headerData": {
+    "monthlyRent": "$1,380 - $3,550",
+    "bedrooms": "Studio - 3 bd",
+    "bathrooms": "1 - 2 ba",
+    "sqft": "646 - 1,523 sq ft"
+  },
+  "apts": [
+    {
+      "name": "Ovation 1 Bedroom 1 Bath",
+      "price": "$1,820 - $2,884",
+      "bedrooms": "1 bed",
+      "bathrooms": "1 bath",
+      "sqft": "807 - 1,022 sq ft",
+      "lease": "3 - 24 Month Lease",
+      "availableUnits": {
+        "unit1": {
+          "unit": "305",
+          "price": "$1,880",
+          "sqft": "807 sq ft",
+          "availability": "Now"
+        },
+        "unit2": {
+          "unit": "306",
+          "price": "$1,820",
+          "sqft": "807 sq ft",
+          "availability": "Now"
+        },
+        "unit3": {
+          "unit": "307",
+          "price": "$1,820",
+          "sqft": "807 sq ft",
+          "availability": "Now"
+        }
+      }
+    },
+    {
+        "name": "Ovation 2 Bedroom 2 Bath",
+        "price": "$2,884 - $3,550",
+        "bedrooms": "2 beds",
+        "bathrooms": "2 baths",
+        "sqft": "1,022 - 1,523 sq ft",
+        "lease": "3 - 24 Month Lease",
+        "availableUnits": {
+            "unit1": {
+            "unit": "305",
+            "price": "$2,884",
+            "sqft": "1,022 sq ft",
+            "availability": "Now"
+            },
+            "unit2": {
+            "unit": "306",
+            "price": "$2,884",
+            "sqft": "1,022 sq ft",
+            "availability": "Now"
+            },
+            "unit3": {
+            "unit": "307",
+            "price": "$2,884",
+            "sqft": "1,022 sq ft",
+            "availability": "Now"
+            }
+        }
+    }
+  ]
+}
+
